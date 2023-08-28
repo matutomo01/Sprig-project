@@ -24,8 +24,8 @@ public class FizzBuzzService {
 			result.add(String.valueOf(i));
 		}
 	}
-	 
-	 return result;
+
+	return result;
 	}
 
 }
